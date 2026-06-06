@@ -1,0 +1,6 @@
+{
+  "name": "CoverLayer",
+  "description": "Multi-tenant embedded insurance broker platform with automated AI underwriting and claims triage operations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
